@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.load-more-hidden {
+  display: none;
+}
+
+.button-container {
+  width: 100%;
+}
+
+button {
+  display: block;
+  width: 200px;
+  font-size: 20px;
+  margin: auto auto;
+}
