@@ -16,3 +16,11 @@ button {
   font-size: 20px;
   margin: auto auto;
 }
+
+.js-form-container {
+  display: block;
+}
+input {
+  display: block;
+  margin-bottom: 5px;
+}
